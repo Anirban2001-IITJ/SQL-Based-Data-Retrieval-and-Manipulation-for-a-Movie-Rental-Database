@@ -3,7 +3,7 @@ It involves selecting data, inserting and updating records, performing aggregati
 and executing joins to extract insights such as film categories, actor appearances
 and customer rental behavior through conditional queries and grouped analysis.
 
-
+Skills : Databases, SQL, SQLite
 
 
 
